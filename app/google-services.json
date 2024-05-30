@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917144593759",
+    "project_id": "tareaactualizada",
+    "storage_bucket": "tareaactualizada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917144593759:android:da52dfdeb16f7a688182ea",
+        "android_client_info": {
+          "package_name": "com.example.tareaactualizadafirebasefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh3z_0dlU8ky1JSaK_dxy2QDTJPOeICy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
